@@ -25,10 +25,10 @@ Which means that finding a life partner is most likely going to happen one of tw
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="vertical-align: middle; text-align: center; font-weight: bold; font-size: 150%;">
-      <img src="../images/changemymind.jpg" width="300"/>
+      <img src="images/changemymind.jpg" width="300"/>
     </td>
     <td style="vertical-align: middle; text-align: center; font-weight: bold; font-size: 150%;">
-      <img src="../images/london-satellite.jpg" height="300"/>
+      <img src="images/london-satellite.jpg" height="300"/>
     </td>
   </tr>
   <tr>
