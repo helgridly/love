@@ -33,7 +33,7 @@ Which means that finding a life partner is most likely going to happen one of tw
   </tr>
   <tr>
     <td>
-        <p>In short, <b>I'm willing to change my plans for the right person</b>. I <i>do</i> want to live in a big city, but as long as the energy is right, that could be any number of places. London and NYC are the obvious ones, but there might be others: Chicago? Paris? Tokyo?</p>
+        <p><b>I'm willing to change my plans for the right person</b>. I <i>do</i> want to live in a big city, but as long as the energy is right, that could be any number of places. London and NYC are the obvious ones, but there might be others: Chicago? Paris? Tokyo?</p>
         <p>I realize that "embark on a relationship knowing you have a few months in which to materially affect a big life decision" is daunting, and I don't blame anyone who doesn't want to take that on.</p>
         <p>But if you think we're compatible and are willing to give it a shot...</p>
     </td>
