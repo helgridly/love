@@ -90,13 +90,13 @@ I believe a life of weeping-with-happiness contentment is possible, and I want i
 
 I would like to co-create a life - location, partner, friends, community (which I see as another word for "family") - at a more sustainable pace, where exploration and flourishing is nurtured. I value making sure people are fed: I've volunteered making meals for chronically sick people, and also helped run a mutual aid food drive for two years. I want to spend more of my time tackling food insecurity and I've got Big Plans to do so.
 
-I'd like to have kids, and be active in raising them. I often joke that I'd make an amazing trophy husband. Meanwhile, I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I think I'm sorta converging on India from both directions.
+I'd like to have kids, and be active in raising them. I often joke that I'd make an amazing trophy husband. Meanwhile, I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I seem to be converging on India from both directions.
 
 ## Spirituality
 
 I used to be allergic to the word until a friend pointed out "dude, you have a spirit, it's the thing that makes you you", and then I was fine.
 
-The condensed version of my spiritual biography: I grew up Muslim, but quit in my early twenties because I felt like I couldn't do it well enough. I came close to falling down the New Atheism rabbithole, but dodged it; in my late twenties I began a quest for capital-M Meaning which I finally found after lots of therapy and years of Zen practice.
+The condensed version of my spiritual biography: I grew up Muslim, but quit in my early twenties because I felt like I couldn't do it well enough. I came close to falling down the New Atheism rabbithole, but dodged it; in my late twenties I began a quest for capital-M Meaning, which I finally found after lots of therapy and years of Zen practice.
 
 Buddhism has been important to me for approaching a decade. Buddhist philosophy and psychology is very much a part of who I am, how I think, and how I like to relate to the world. An example: when I filed for US citizenship, I asked for a waiver to the Oath of Allegiance on the grounds of not wanting to support the military, even though being 38 means there's basically no chance I'll get drafted.
 
