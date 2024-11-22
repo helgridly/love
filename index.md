@@ -9,7 +9,7 @@ permalink: /
 
 \[carousel goes here\]
 
-I'm 38, 5'8", and I live in Boston, MA. I'm playful, reflective, and caring; I'm a Buddhist, I have an amazing cat, I'm a godparent and honorary uncle to two kids I love, I do community work, etc; just a normal, stand-up guy with no skeletons in the closet and absolutely no aspirations to start a personality cult.
+I'm 38, 5'8", and I live in Boston, MA. I'm playful, reflective, and caring; I'm a Buddhist, I have an amazing cat, I'm a godparent and honorary uncle to two kids I love, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
 
 There are two things I'm working on right now that are very important to me:
 
