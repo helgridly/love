@@ -5,7 +5,7 @@ title: hello!
 permalink: /
 ---
 
-Hi, I'm Hussein 👋
+# Hi, I'm Hussein 👋
 
 \[carousel goes here\]
 
@@ -44,28 +44,26 @@ Which means that finding a life partner is most likely going to happen one of tw
   </tr>
 </table>
 
-<hr/>
+As you can see, I'm the sort of person who gets down to brass tacks quickly. Let's continue that streak:
 
-As you can see, I'm the sort of person who gets down to brass tacks quickly
+## Potential dealbreakers
 
+I'm happy to talk about any of these if you'd like to know more.
 
-Let's get some potential dealbreakers out of the way. I'm happy to talk about any of them if you'd like to know more.
+* I would like to have children (at least one), biological if possible.
+* I am open to a <u>very</u> secure relationship unfolding into something monogam<i>ish</i>, if it feels right. The thing I really care about is the "very secure relationship" part: I think a relationship with good grounding, and the right effort and intention, will become whatever it should.
+* I pair better with someone who also has good executive function skills. Being able to trust a partner to get things done makes me feel taken care of, and gives me a profound feeling of relief and safety.
+* I am politically far to the left. That said, I have largely disengaged with US politics and treat it solely as a spectacle. These days I am more of an anarchist, by which I mean I believe that community building and mutual aid is worthwhile and morally necessary. I feel a particular calling to make sure people have food.
+* If you think Israel's occupation and treatment of Palestine is in any way conscionable or justifiable, I am not the person for you.
+* I am Buddhist-aligned. Which particular flavour I identify with, my practice, and my relationship to it have all evolved over time, and I expect that to continue, but the Buddhist perspective is an important part of my worldview (see <a href="#spirituality">Spirituality</a>). My ideal person has some sort of spiritual / contemplative practice that they're similarly dedicated to.
+* I'm an only child, and have minimal to no contact with both of my parents. My family is thus entirely chosen. If you're close to yours, I would love to become part of it.
+* I have [a (really, really, really amazing) cat](../cat). If you viscerally hate cats, or have overwhelming allergies, that'd make it hard.
+* I am vegetarian, with very occasional and intentional exceptions. I don't mind whether you are or not. I do enjoy cooking, and will want to cook for you, so if you'll feel slighted by me not putting meat on your plate then… eh, I dunno.
 
+## The sort of person I am
 
-I would like to have children (at least one), biological if possible.
-I am open to a very secure relationship unfolding into something monogamish, if it feels right. The thing I really care about is the "very secure relationship" part: I think a relationship with good grounding, and the right effort and intention, will become whatever it should.
-I've got some sort of Bowie / Prince-ish maybe-not-entirely-straight or at least glam-fabulous thing going on lately. I'm letting it figure itself out in its own time.
-I pair better with someone who also has good executive function skills. Being able to trust a partner to get things done makes me feel taken care of, and gives me a profound feeling of relief and safety.
-I currently live in Boston but am planning to move back to London around Spring 2025. This complicates building the kind of relationship that I'm looking for; putting my romantic prospects on hold until then seems unappealing. I don't really know how to navigate this, beyond meeting people who seem compatible and interesting meanwhile and seeing what happens. The right person could change this plan, but living in a big city energizes me in a way I really miss, and I want that feeling back in my life.
-I am politically far to the left. That said, I have largely disengaged with US politics and treat it solely as a spectacle. These days I am more of an anarchist, by which I mean I believe that community building and mutual aid is worthwhile and morally necessary. I feel a particular calling to make sure people have food.
-If you think Israel's occupation and treatment of Palestine is in any way conscionable or justifiable, I am not the person for you.
-I am Buddhist-aligned. Which particular flavour I identify with, my practice, and my relationship to it have all evolved over time, and I expect that to continue, but the Buddhist perspective is an important part of my worldview (see Spirituality). My ideal person has some sort of spiritual / contemplative practice that they're similarly dedicated to.
-I'm an only child, and have minimal to no contact with both of my parents. My family is thus entirely chosen. If you're close to yours, I would love to become part of it.
-I have a (really, really, really amazing) cat. If you viscerally hate cats, or have overwhelming allergies, that'd make it hard.
-I am vegetarian, with very occasional and intentional exceptions. I don't mind whether you are or not. I do enjoy cooking, and will want to cook for you, so if you'll feel slighted by me not putting meat on your plate then… eh, I dunno.
-The sort of person I am
-On bad days I think I'm a good person because I'm funny and clever.
-On good days I think I'm a good person because I'm open-hearted, playful, and kind.
+On bad days I think I'm a good person because I'm funny and clever.  
+On good days I think I'm a good person because I'm open-hearted, playful, and kind.  
 On the best days I don't think about whether I'm a good person at all.
 
 I think this captures me well: I built raised beds in my garden. I like tending to it over the summer and then getting to enjoy incredible tomatoes at the end of the season. (I thought tomatoes were meh until I pulled one directly off the plant.)
@@ -74,42 +72,44 @@ If you are sick I will make soup and bring it to you. It's an important way I sh
 
 Some things I like to do:
 
-Outdoorsy / light-active stuff: climbing, walking, fair-weather sailing, easy cycling (no lycra).
-DIY and making stuff - I've made plenty of the things in my house, including drapery.
-Cooking, restaurants, cocktails (though I rarely drink these days).
-Any classical music concert featuring an angsty Russian Romantic composer.
-I am kinda getting into energy woo lately??? Chakras??? I am but a baby but there is something going on here.
-I can't stand loud places for very long. I almost never watch movies or TV shows. I don't get people who are super into board games. I don't especially like hanging out with large groups of people I don't know, but I do like groups of people I do know.
+* Outdoorsy / light-active stuff: climbing, walking, fair-weather sailing, easy cycling (no lycra).
+* DIY and making stuff - I've made plenty of the things in my house, including drapery.
+* Cooking, restaurants, cocktails (though I rarely drink these days).
+* Any classical music concert featuring an angsty Russian Romantic composer.
+* I am kinda getting into energy woo lately??? Chakras??? I am but a baby but there is something going on here.
+* I am, finally, taking singing lessons! Which feels great.
 
-I have worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to not do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
+I have worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to _not_ do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
 
-My vice is hookah. If I had one at home I'd instantly die of lung cancer, and I much prefer living, so I don't. But I keep finding that the best people I know are down to go to a hookah bar if I suggest it. (We're talking a handful of times a year.)
-People sometimes say nice things about me
-"I want your perspective because my other friends give me generic advice, and I know with you I’ll get something interesting and weird." - friend
+My vice is hookah. If I had one at home I'd instantly die of lung cancer, and I much prefer living, so I don't. But I keep finding that the best people I know are down to go to a hookah bar. Doesn't have to be you, but it's an easy way to get a 🤩 face from me.
 
-"I saw you and thought "who IS this being?". I thought you must be a teacher." - workshop facilitator at yoga retreat
+## The sort of future I want
 
-"I can't wait to get another of your huge hugs." - friend and Zen teacher [Update: she got one.]
-If you are here from Twitter
-My Twitter profile is deliberately very unfiltered. I think it's a pretty good representation of the sort of person I am.
+I believe a life of weeping-with-happiness contentment is possible, and I want it.  
+[Update: since writing that, I have indeed wept with happiness.]
 
-I also run the account @voidlistening, a project to help newbies become established in the community. I'm quite proud of it.
+I would like to co-create a life - location, partner, friends, community (which I see as another word for "family") - at a more sustainable pace, where exploration and flourishing is nurtured. I value making sure people are fed: I've volunteered making meals for chronically sick people, and also helped run a mutual aid food drive for two years. I want to spend more of my time tackling food insecurity and I've got Big Plans to do so.
 
-If you are not here from Twitter and this is gibberish to you, don't worry. Or ask me about it sometime :)
-The sort of future I want
-I believe a life of weeping-with-happiness contentment is possible, and I want it. [Update: since writing that, I have indeed wept with happiness.]
+I'd like to have kids, and be active in raising them. I often joke that I'd make an amazing trophy husband. Meanwhile, I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I think I'm sorta converging on India from both directions.
 
-For me, Boston and life in the American "hard capitalist" tech world is exhausting, and I think my time in both is coming to an close. After a recent trip home, I'm setting the wheels in motion to move back to London and build a more nourishing life. The right person could change this plan, but it's the plan for now. I'm also exploring a career change into something psych-adjacent, or working in food insecurity.
+## Spirituality
 
-I would like to co-create a life - location, partner, friends, community (another word for family) - at a more sustainable pace, where exploration and flourishing is nurtured. I value making sure people are fed: I've volunteered making meals for chronically sick people, and also helped run a mutual aid food drive for two years. I could see myself potentially going for a life of spiritual calling at some point.
-Spirituality
 I used to be allergic to the word until a friend pointed out "dude, you have a spirit, it's the thing that makes you you", and then I was fine.
 
-If you're on Twitter, this thread tells most of the story. But in brief: I have always felt there is capital-M Meaning to be had, and after years of Zen practice, I finally found it. These days I am feeling out where my practice is leading me; I want to keep growing deeper.
+The condensed version of my spiritual biography: I grew up Muslim, but quit in my early twenties because I felt like I couldn't do it well enough. I came close to falling down the New Atheism rabbithole, but dodged it; in my late twenties I began a quest for capital-M Meaning which I finally found after lots of therapy and years of Zen practice.
 
-If that's too handwavey and vague to land for you, here's something more concrete: Buddhism has been important to me for approaching a decade. Buddhist philosophy and psychology is very much a part of who I am, how I think, and how I like to relate to the world. An example: when I filed for US citizenship, I asked for a waiver to the Oath of Allegiance on the grounds of not wanting to support the military, even though being 38 means there's basically no chance I'll get drafted.
+Buddhism has been important to me for approaching a decade. Buddhist philosophy and psychology is very much a part of who I am, how I think, and how I like to relate to the world. An example: when I filed for US citizenship, I asked for a waiver to the Oath of Allegiance on the grounds of not wanting to support the military, even though being 38 means there's basically no chance I'll get drafted.
 
-It's important to me that my partner has their own self-development practice - something that helps them be freer, kinder, and more open.
-Getting in touch
-If you've made it all the way here: thank you. I would love to hear what you think, even if you're not interested in dating me. Please contact me by whatever means you found this doc!
+It's important to me that my partner has their own self-development practice - something that helps them be freer, kinder, and more open. It by no means has to be Buddhist flavoured.
 
+## What next?
+
+This is the end of the text-heavy part. Thank you for sticking around!
+
+There are a few places you can go from here:
+
+* Look at [pictures of my cat](../cat)
+* Look at [an assortment of pictures and videos from my life](../moodboard)
+* If you're interested, or have something to say, email me: `hello@thiswebsite`
+
+Thanks, and I hope you find what you're looking for too. ❤
