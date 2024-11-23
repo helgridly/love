@@ -55,3 +55,31 @@ td {
 .flex-container img {
   width: 49%;
 }
+/*
+.pswp-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.pswp-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+*/
+/* Ensure video stays within viewport */
+.pswp-video-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.pswp-video-container video {
+  max-width: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+}
