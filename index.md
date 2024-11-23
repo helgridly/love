@@ -7,7 +7,46 @@ permalink: /
 
 # Hi, I'm Hussein 👋
 
-\[carousel goes here\]
+<script>
+      document.addEventListener('DOMContentLoaded', function() {
+      const splide = new Splide('.splide', {
+        type: 'loop',
+        perPage: 1,
+        focus: 'center',
+        gap: '1rem',
+        padding: { left: '10%', right: '10%' },
+        arrows: true,
+        waitForTransition: true,
+        updateOnMove: true,
+        speed: 800,
+        easing: 'cubic-bezier(0.4, 0, 0.2, 1)',
+        preloadPages: 3,
+        lazyLoad: false,
+        start: 0,
+      });
+
+      // Wait for all images to load
+      Promise.all(Array.from(document.querySelectorAll('.splide img'))
+        .filter(img => !img.complete)
+        .map(img => new Promise(resolve => {
+          img.onload = img.onerror = resolve;
+        })))
+        .then(() => {
+          splide.mount();
+        });
+    });
+</script>
+
+<section class="splide" aria-label="Splide Basic HTML Example">
+  <div class="splide__track">
+		<ul class="splide__list">
+    <li class="splide__slide"><img src="images/20231226171327_IMG_4469.JPG" loading="eager"/></li>
+    <li class="splide__slide"><img src="images/GbuWSCuXcAM8PD2.jpg" loading="eager"/></li>
+    <li class="splide__slide"><img src="images/20240906_201618_straight_degreen.jpg" loading="eager"/></li>
+    <li class="splide__slide"><img src="images/pinkshades-transformed-2.jpg" loading="eager"/></li>
+    </ul>
+  </div>
+</section>
 
 I'm 38, 5'8", and I live in Boston, MA. I'm playful, reflective, and caring; I'm a Buddhist, I have an amazing cat, I'm a godparent and honorary uncle to two kids I love, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
 
