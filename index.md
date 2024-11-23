@@ -44,22 +44,6 @@ Which means that finding a life partner is most likely going to happen one of tw
   </tr>
 </table>
 
-As you can see, I'm the sort of person who gets down to brass tacks quickly. Let's continue that streak:
-
-## Potential dealbreakers
-
-I'm happy to talk about any of these if you'd like to know more.
-
-* I would like to have children (at least one), biological if possible.
-* I am open to a <u>very</u> secure relationship unfolding into something monogam<i>ish</i>, if it feels right. The thing I really care about is the "very secure relationship" part: I think a relationship with good grounding, and the right effort and intention, will become whatever it should.
-* I pair better with someone who also has good executive function skills. Being able to trust a partner to get things done makes me feel taken care of, and gives me a profound feeling of relief and safety.
-* I am politically far to the left. That said, I have largely disengaged with US politics and treat it solely as a spectacle. These days I am more of an anarchist, by which I mean I believe that community building and mutual aid is worthwhile and morally necessary. I feel a particular calling to make sure people have food.
-* If you think Israel's occupation and treatment of Palestine is in any way conscionable or justifiable, I am not the person for you.
-* I am Buddhist-aligned. Which particular flavour I identify with, my practice, and my relationship to it have all evolved over time, and I expect that to continue, but the Buddhist perspective is an important part of my worldview (see <a href="#spirituality">Spirituality</a>). My ideal person has some sort of spiritual / contemplative practice that they're similarly dedicated to.
-* I'm an only child, and have minimal to no contact with both of my parents. My family is thus entirely chosen. If you're close to yours, I would love to become part of it.
-* I have [a (really, really, really amazing) cat](../cat). If you viscerally hate cats, or have overwhelming allergies, that'd make it hard.
-* I am vegetarian, with very occasional and intentional exceptions. I don't mind whether you are or not. I do enjoy cooking, and will want to cook for you, so if you'll feel slighted by me not putting meat on your plate then… eh, I dunno.
-
 ## The sort of person I am
 
 On bad days I think I'm a good person because I'm funny and clever.  
@@ -101,6 +85,19 @@ The condensed version of my spiritual biography: I grew up Muslim, but quit in m
 Buddhism has been important to me for approaching a decade. Buddhist philosophy and psychology is very much a part of who I am, how I think, and how I like to relate to the world. An example: when I filed for US citizenship, I asked for a waiver to the Oath of Allegiance on the grounds of not wanting to support the military, even though being 38 means there's basically no chance I'll get drafted.
 
 It's important to me that my partner has their own self-development practice - something that helps them be freer, kinder, and more open. It by no means has to be Buddhist flavoured.
+
+## Potential dealbreakers
+
+I'm happy to talk about any of these if you'd like to know more.
+
+* I would like to have children (at least one), preferably biological.
+* I am open to a <u>very</u> secure relationship unfolding into something monogam<i>ish</i>, if it feels right. The thing I really care about is the "very secure relationship" part: I think a relationship with good grounding, and the right effort and intention, will become whatever it should.
+* I pair better with someone who also has good executive function skills. Being able to trust a partner to get things done makes me feel taken care of, and gives me a profound feeling of relief and safety.
+* I am politically far to the left. That said, I have largely disengaged with US politics and treat it solely as a spectacle. These days I am more of an anarchist, by which I mean I believe that community building and mutual aid is worthwhile and morally necessary.
+* If you think Israel's occupation and treatment of Palestine is in any way conscionable or justifiable, I am not the person for you.
+* I'm an only child, and have minimal to no contact with both of my parents. My family is thus entirely chosen. If you're close to yours, I would love to become part of it.
+* I have [a (really, really, really amazing) cat](../cat). If you viscerally hate cats, or have overwhelming allergies, that'd make it hard.
+* I am vegetarian, with very occasional and intentional exceptions. I don't mind whether you are or not. I do enjoy cooking, and will want to cook for you, so if you'll feel slighted by me not putting meat on your plate then… eh, I dunno.
 
 ## What next?
 
