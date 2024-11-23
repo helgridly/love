@@ -47,3 +47,11 @@ table td img {
 td {
   max-width: 100%;
 }
+
+.flex-container {
+  display: flex;
+  gap: 1%; /* adds space between images */
+}
+.flex-container img {
+  width: 49%;
+}
