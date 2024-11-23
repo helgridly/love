@@ -1,8 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
     const galleryElement = document.querySelector('#gallery');
+    
+    // Initialize Masonry first
+    const masonry = new Masonry(galleryElement, {
+        itemSelector: 'a',
+        columnWidth: 200,
+        gutter: 10,
+        fitWidth: true
+    });
+
+    // Rest of your PhotoSwipe initialization remains the same
     const items = [];
     
-    // Pre-populate items array
+    // Pre-populate items array for PhotoSwipe
     galleryElement.querySelectorAll('a').forEach(element => {
         const isVideo = element.classList.contains('video-link');
         
@@ -85,5 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
             e.preventDefault();
             lightbox.loadAndOpen(index);
         });
+    });
+
+    // After images load, tell Masonry to relayout
+    imagesLoaded(galleryElement, function() {
+        masonry.layout();
     });
 });
