@@ -10,15 +10,45 @@ photoswipe: true
     <a 
         href="{{site.baseurl}}/images/fooddrive.mp4"
         class="video-link"
-        data-pswp-width="1200"
-        data-pswp-height="800">
-        <img src="{{site.baseurl}}/images/london-satellite.jpg" alt="Sample video" />
+        data-pswp-width="360"
+        data-pswp-height="600">
+        <img src="{{site.baseurl}}/images/fooddrive-thumb.png" alt="Sample video" />
     </a>
     <a 
-        href="https://picsum.photos/1200/800"
-        data-pswp-width="1200"
-        data-pswp-height="800">
-        <img src="https://picsum.photos/200/200" alt="Sample image" />
+        href="{{site.baseurl}}/images/changemymind.jpg"
+        data-pswp-width="1188"
+        data-pswp-height="1200">
+        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
+    </a>
+    <a 
+        href="{{site.baseurl}}/images/pinkshades-transformed-2.jpg"
+        data-pswp-width="3216"
+        data-pswp-height="3616">
+        <img src="{{site.baseurl}}/images/pinkshades-transformed-2.jpg" alt="Sample image" />
+    </a>
+    <a 
+        href="{{site.baseurl}}/images/GbuWSCuXcAM8PD2.jpg"
+        data-pswp-width="1536"
+        data-pswp-height="2048">
+        <img src="{{site.baseurl}}/images/GbuWSCuXcAM8PD2.jpg" alt="Sample image" />
+    </a>
+    <a 
+        href="{{site.baseurl}}/images/changemymind.jpg"
+        data-pswp-width="1188"
+        data-pswp-height="1200">
+        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
+    </a>
+    <a 
+        href="{{site.baseurl}}/images/changemymind.jpg"
+        data-pswp-width="1188"
+        data-pswp-height="1200">
+        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
+    </a>
+    <a 
+        href="{{site.baseurl}}/images/changemymind.jpg"
+        data-pswp-width="1188"
+        data-pswp-height="1200">
+        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
     </a>
 </div>
 
@@ -40,8 +70,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             preload="metadata">
                         </video>
                       </div>`,
-                width: 1200,
-                height: 800
+                width: 360,
+                height: 600
             }
         ]
     });
