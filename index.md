@@ -3,6 +3,7 @@ layout: page
 hidetitle: true
 title: hello!
 permalink: /
+splide: true
 ---
 
 # Hi, I'm Hussein 👋
