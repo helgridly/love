@@ -79,7 +79,7 @@ Which means that finding a life partner is most likely going to happen one of tw
     </td>
     <td>
         <p>You live in or around London; or you're London-curious and could imagine potentially making it home.</p>
-        <p>I will be visiting to figure out logistics a few times before I move, so there'll be opportunities to meet up then.</p>
+        <p>I will be visiting to figure out logistics a few times before I move, so there'll be opportunities to meet up then, and we can start getting to know each other meanwhile.</p>
     </td>
   </tr>
 </table>
