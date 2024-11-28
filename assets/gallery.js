@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                       </div>`,
                 width: dimensions[index].width,
                 height: dimensions[index].height,
+                caption: element.querySelector('img').getAttribute('alt'),
                 isVideo: true
             });
         } else {
@@ -56,6 +57,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 src: element.href,
                 width: element.querySelector('img').naturalWidth,
                 height: element.querySelector('img').naturalHeight,
+                caption: element.querySelector('img').getAttribute('alt'),
                 isVideo: false
             });
         }
@@ -117,9 +119,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         // Plugins options, for example:
         type: 'auto',
         captionContent: (slide) => {
-            // TODO: point to the image's alt or something
-            // https://github.com/dimsemenov/photoswipe-dynamic-caption-plugin?tab=readme-ov-file#plugin-options
-            return "captionContent";
+            return slide.data.caption;
           }
       });
 

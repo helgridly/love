@@ -15,9 +15,8 @@ photoswipe: true
         <img src="{{site.baseurl}}/images/fooddrive-thumb.png" alt="Sample video" />
     </a>
     <a 
-        href="{{site.baseurl}}/images/changemymind.jpg"
-        alt="aaaAAA">
-        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
+        href="{{site.baseurl}}/images/changemymind.jpg">
+        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="aaaAAAA" />
     </a>
     <a 
         href="{{site.baseurl}}/images/pinkshades-transformed-2.jpg" class="span-2">
