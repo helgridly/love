@@ -11,9 +11,7 @@ photoswipe: true
 <div class="pswp-gallery" id="gallery">
     <a 
         href="{{site.baseurl}}/images/fooddrive.mp4"
-        class="video-link"
-        width="720"
-        height="1280">
+        class="video-link">
         <img src="{{site.baseurl}}/images/fooddrive-thumb.png" alt="Sample video" />
     </a>
     <a 

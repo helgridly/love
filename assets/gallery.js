@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async function() {
     const galleryElement = document.querySelector('#gallery');
     
     // Initialize Masonry first
@@ -9,11 +9,31 @@ document.addEventListener('DOMContentLoaded', function() {
         fitWidth: true
     });
 
-    // Rest of your PhotoSwipe initialization remains the same
-    const items = [];
-    
     // Pre-populate items array for PhotoSwipe
-    galleryElement.querySelectorAll('a').forEach(element => {
+    const links = galleryElement.querySelectorAll('a');
+
+    // Load all video metadata first
+    const dimensionsPromises = Array.from(links).map(element => {
+        if (element.classList.contains('video-link')) {
+            return new Promise(resolve => {
+                const tmpVid = document.createElement('video');
+                tmpVid.src = element.href;
+                tmpVid.onloadedmetadata = () => {
+                    resolve({
+                        width: tmpVid.videoWidth,
+                        height: tmpVid.videoHeight
+                    });
+                };
+            });
+        } else {
+            return Promise.resolve(null); // Non-video elements
+        }
+    });
+
+    const dimensions = await Promise.all(dimensionsPromises);
+
+    const items = [];
+    links.forEach((element, index, arry) => {
         const isVideo = element.classList.contains('video-link');
         
         if (isVideo) {
@@ -26,13 +46,12 @@ document.addEventListener('DOMContentLoaded', function() {
                             preload="metadata">
                         </video>
                       </div>`,
-                // TODO: fix width and height for videos - caption rendering top left here
-                width: element.width,
-                height: element.height,
+                width: dimensions[index].width,
+                height: dimensions[index].height,
                 isVideo: true
             });
         } else {
-            console.log(element);
+            //console.log(element);
             items.push({
                 src: element.href,
                 width: element.querySelector('img').naturalWidth,
