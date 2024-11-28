@@ -11,11 +11,14 @@ photoswipe: true
 <div class="pswp-gallery" id="gallery">
     <a 
         href="{{site.baseurl}}/images/fooddrive.mp4"
-        class="video-link">
+        class="video-link"
+        width="720"
+        height="1280">
         <img src="{{site.baseurl}}/images/fooddrive-thumb.png" alt="Sample video" />
     </a>
     <a 
-        href="{{site.baseurl}}/images/changemymind.jpg">
+        href="{{site.baseurl}}/images/changemymind.jpg"
+        alt="aaaAAA">
         <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
     </a>
     <a 

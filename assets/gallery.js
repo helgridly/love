@@ -26,15 +26,17 @@ document.addEventListener('DOMContentLoaded', function() {
                             preload="metadata">
                         </video>
                       </div>`,
-                width: parseInt(element.dataset.pswpWidth),
-                height: parseInt(element.dataset.pswpHeight),
+                // TODO: fix width and height for videos - caption rendering top left here
+                width: element.width,
+                height: element.height,
                 isVideo: true
             });
         } else {
+            console.log(element);
             items.push({
                 src: element.href,
-                width: parseInt(element.dataset.pswpWidth),
-                height: parseInt(element.dataset.pswpHeight),
+                width: element.querySelector('img').naturalWidth,
+                height: element.querySelector('img').naturalHeight,
                 isVideo: false
             });
         }
@@ -43,7 +45,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const lightbox = new PhotoSwipeLightbox({
         pswpModule: PhotoSwipe,
         bgOpacity: 0.9,
-        dataSource: items
+        dataSource: items,
+        paddingFn: (viewportSize) => {
+            return {
+              top: 30, bottom: 30, left: 70, right: 70
+            }
+          },
     });
 
     // Add event handlers
@@ -86,6 +93,16 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
+
+    const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+        // Plugins options, for example:
+        type: 'auto',
+        captionContent: (slide) => {
+            // TODO: point to the image's alt or something
+            // https://github.com/dimsemenov/photoswipe-dynamic-caption-plugin?tab=readme-ov-file#plugin-options
+            return "captionContent";
+          }
+      });
 
     lightbox.init();
 
