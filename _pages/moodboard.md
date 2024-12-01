@@ -11,44 +11,5 @@ photoswipe: true
 <div class="pswp-gallery" id="gallery">
 </div>
 
-
-<script>/* 
-<div class="pswp-gallery_old" id="gallery2">
-    <a 
-        href="{{site.baseurl}}/images/fooddrive.mp4"
-        class="video-link">
-        <img src="{{site.baseurl}}/images/fooddrive-thumb.png" alt="Sample video" />
-    </a>
-    <a 
-        href="{{site.baseurl}}/images/changemymind.jpg">
-        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="aaaAAAA" />
-    </a>
-    <a 
-        href="{{site.baseurl}}/images/pinkshades-transformed-2.jpg" class="span-2">
-        <img src="{{site.baseurl}}/images/pinkshades-transformed-2.jpg" alt="Sample image" />
-    </a>
-        <a 
-        href="{{site.baseurl}}/images/GbuWSCuXcAM8PD2.jpg" class="span-2">
-        <img src="{{site.baseurl}}/images/GbuWSCuXcAM8PD2.jpg" alt="Sample image" />
-    </a>
-    <a 
-        href="{{site.baseurl}}/images/changemymind.jpg">
-        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
-    </a>
-    <a 
-        href="{{site.baseurl}}/images/changemymind.jpg">
-        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
-    </a>
-    <a 
-        href="{{site.baseurl}}/images/GbuWSCuXcAM8PD2.jpg" class="span-2">
-        <img src="{{site.baseurl}}/images/GbuWSCuXcAM8PD2.jpg" alt="Sample image" />
-    </a>
-    <a 
-        href="{{site.baseurl}}/images/changemymind.jpg">
-        <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
-    </a>
-</div>
-*/</script>
-
 <script src="{{site.baseurl}}/assets/gallery.js"></script>
 
