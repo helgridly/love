@@ -30,8 +30,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             img.alt = caption;
             a.appendChild(img);
             galleryElement.appendChild(a);
-
-            console.log(filename, cols, caption);
         }
       })
       .then(async () => {
@@ -39,7 +37,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         const galleryWidth = galleryElement.parentElement.offsetWidth;
         const minColumns = 3; // Number of columns we want
         const maxColumnWidth = Math.floor(galleryWidth / minColumns) - 10;
-        console.log("maxColumnWidth", maxColumnWidth);
 
         const masonry = new Masonry(galleryElement, {
             itemSelector: 'a',
@@ -97,7 +94,6 @@ document.addEventListener('DOMContentLoaded', async function() {
                     isVideo: true
                 });
             } else {
-                //console.log(element);
                 items.push({
                     src: element.href,
                     width: element.querySelector('img').naturalWidth,
@@ -182,8 +178,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         imagesLoaded(galleryElement, function() {
             masonry.layout();
             galleryElement.classList.add('loaded');
-            console.log(masonry.columnWidth, masonry.gutter);
-            console.log(galleryElement.offsetWidth);
         });
 
     });
