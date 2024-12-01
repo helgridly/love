@@ -55,3 +55,99 @@ td {
 .flex-container img {
   width: 49%;
 }
+
+/* start gallery hidden until relayed out */
+.pswp-gallery {
+  margin: 0 auto;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.pswp-gallery.loaded {
+  opacity: 1;
+}
+
+/* widths for a and a.span-2 are set in gallery.js */
+.pswp-gallery a {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.pswp-gallery a.span-2 {
+  width: 460px; /* 2 * 200px + 10px gap */
+}
+
+.pswp-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* For items that should span columns */
+.span-wrapper {
+  position: relative;
+  margin-bottom: 10px;
+  break-inside: avoid;
+}
+
+.span-wrapper::before {
+  content: '';
+  display: block;
+  padding-bottom: 50%; /* Reserve vertical space */
+}
+
+.span-wrapper a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(200% + 10px); /* Two columns plus the gap */
+  height: 100%;
+}
+
+.video-link::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.6);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.video-link::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-style: solid;
+  border-width: 15px 0 15px 25px;
+  border-color: transparent transparent transparent rgba(255, 255, 255, 0.8);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Modal content styles */
+.pswp__img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.pswp-video-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pswp-video-wrapper video {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
