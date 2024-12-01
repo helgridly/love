@@ -23,5 +23,5 @@ for file in *.jpg; do convert "$file" -resize 1200x800 -quality 85 "mids/${file%
 and thumbnails:
 
 ```
-for file in *.jpg; do convert "$file" -resize 640x480 -quality 80 "thumbs/${file%.jpg}.jpg"; done
+for file in *.jpg; do convert "$file" -resize 640x480 -quality 70 "thumbs/${file%.jpg}.jpg"; done
 ```
