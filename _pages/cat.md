@@ -6,7 +6,7 @@ permalink: /cat/
 
 Everyone's cat is, subjectively, the best cat. This is as it should be and I don't want to argue with anyone about it.
 
-<img src="{{site.baseurl}}/images/pasha/hiding.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/pasha/mids/hiding.jpg" width="100%">
 
 It is _also_ true that objectively, Pasha is easily in the top 10% of cats.
 
@@ -19,8 +19,8 @@ Pasha was the only such cat within 200 miles of me on Petfinder. The shelter nam
 He's clingy in the mornings so sometimes I carry him around in a sling:
 
 <div class="flex-container">
-  <img src="{{site.baseurl}}/images/pasha/lap.jpeg">
-  <img src="{{site.baseurl}}/images/pasha/bag.jpeg">
+  <img src="{{site.baseurl}}/images/pasha/mids/lap.jpg">
+  <img src="{{site.baseurl}}/images/pasha/mids/bag.jpg">
 </div>
 
 He loves people! He greets strangers at the door. I had a gas inspector over once and within five minutes the guy was taking pictures to send his daughter. If you sit on my big recliner he will _run_ over to sit on your lap.
@@ -32,17 +32,17 @@ I was born in Egypt, and I wanted his name to have a Middle Eastern connection. 
 So: he lazes around a lot and wants everything done for him.
 
 <div class="flex-container">
-  <img src="{{site.baseurl}}/images/pasha/lying-down.jpeg" alt="serve me">
-  <img src="{{site.baseurl}}/images/pasha/yawning.jpeg">
+  <img src="{{site.baseurl}}/images/pasha/mids/lying-down.jpg" alt="serve me">
+  <img src="{{site.baseurl}}/images/pasha/mids/yawning.jpg">
 </div>
 
 ## Cuteness
 
-<img src="{{site.baseurl}}/images/pasha/blanket.jpg" width="100%" alt="sleeby">
+<img src="{{site.baseurl}}/images/pasha/mids/blanket.jpg" width="100%" alt="sleeby">
 
 <div class="flex-container">
-  <img src="{{site.baseurl}}/images/pasha/nose.jpeg" alt="LOOK AT THAT NOSE!!!!">
-  <img src="{{site.baseurl}}/images/pasha/window.jpeg" alt="peekin'">
+  <img src="{{site.baseurl}}/images/pasha/mids/nose.jpg" alt="LOOK AT THAT NOSE!!!!">
+  <img src="{{site.baseurl}}/images/pasha/mids/window.jpg" alt="peekin'">
 </div>
 
 <span style="display: block; text-align: center; font-size: 200%;">😻</span>

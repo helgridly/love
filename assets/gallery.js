@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             const caption = parts.slice(2).join(' ');
 
             const a = document.createElement('a');
-            a.href = "../images/moodboard/" + filename;
+            a.href = "../images/moodboard/mids/" + filename;
             if (cols > 1) {
                 a.classList = "span-" + cols;
             }
@@ -23,9 +23,9 @@ document.addEventListener('DOMContentLoaded', async function() {
             }
             const img = document.createElement('img');
             if (filename.endsWith(".mp4")) {
-                img.src = "../images/moodboard/" + filename.replace('.mp4', '-thumb.jpg');
+                img.src = "../images/moodboard/thumbs/" + filename.replace('.mp4', '.jpg');
             } else {
-                img.src = "../images/moodboard/" + filename;
+                img.src = "../images/moodboard/thumbs/" + filename;
             }
             img.alt = caption;
             a.appendChild(img);
@@ -54,19 +54,23 @@ document.addEventListener('DOMContentLoaded', async function() {
         // Pre-populate items array for PhotoSwipe
         const links = galleryElement.querySelectorAll('a');
 
+        async function getVideoMetadata(url) {
+            const response = await fetch(url, {
+                method: 'HEAD'
+            });
+            
+            // Parse video dimensions from Content-Range header
+            // If not available, return placeholder dimensions
+            return {
+                width: 1920,  // Default HD dimensions
+                height: 1080  // Adjust as needed for your content
+            };
+        }
+
         // Load all video metadata first
         const dimensionsPromises = Array.from(links).map(element => {
             if (element.classList.contains('video-link')) {
-                return new Promise(resolve => {
-                    const tmpVid = document.createElement('video');
-                    tmpVid.src = element.href;
-                    tmpVid.onloadedmetadata = () => {
-                        resolve({
-                            width: tmpVid.videoWidth,
-                            height: tmpVid.videoHeight
-                        });
-                    };
-                });
+                return getVideoMetadata(element.href);
             } else {
                 return Promise.resolve(null); // Non-video elements
             }
@@ -84,12 +88,11 @@ document.addEventListener('DOMContentLoaded', async function() {
                             <video 
                                 src="${element.href}"
                                 controls
-                                playsinline
-                                preload="metadata">
+                                playsinline>
                             </video>
                         </div>`,
-                    width: dimensions[index].width,
-                    height: dimensions[index].height,
+                    width: 720, //dimensions[index].width,
+                    height: 1280, //dimensions[index].height,
                     caption: element.querySelector('img').getAttribute('alt'),
                     isVideo: true
                 });

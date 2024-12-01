@@ -11,3 +11,17 @@ todo
 ## notes because i'll forget
 
 * to make images on the moodboard double-wide, use the span-2 class
+
+### image resizing
+
+raw images are too damn big, they get resized. even the click-for-big versions are resized:
+
+```
+for file in *.jpg; do convert "$file" -resize 1200x800 -quality 85 "mids/${file%.jpg}.jpg"; done
+```
+
+and thumbnails:
+
+```
+for file in *.jpg; do convert "$file" -resize 640x480 -quality 80 "thumbs/${file%.jpg}.jpg"; done
+```
