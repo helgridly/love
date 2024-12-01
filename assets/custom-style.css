@@ -19,13 +19,12 @@
   align-items: center;
   justify-content: center;
   height: 400px;
-  width: 50vh !important;
-  /* Fixed width relative to viewport height */
+  width: fit-content;
 }
 
 .splide__slide img {
   height: 100%;
-  width: 100%;
+  width: auto;
   max-height: 500px;
   object-fit: scale-down;
 }
@@ -50,10 +49,10 @@ td {
 
 .flex-container {
   display: flex;
-  gap: 1%; /* adds space between images */
+  gap: 10px; /* adds space between images */
 }
 .flex-container img {
-  width: 49%;
+  width: calc((100% - 10px) /2);
 }
 
 /* start gallery hidden until relayed out */

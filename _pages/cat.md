@@ -4,21 +4,19 @@ title: Pasha's page
 permalink: /cat/
 ---
 
-Yes, I have a page about my cat. Of course I do! Look at him!
+Everyone's cat is, subjectively, the best cat. This is as it should be and I don't want to argue with anyone about it.
 
 <img src="{{site.baseurl}}/images/pasha/hiding.jpeg" width="100%">
 
-Everyone's cat is, subjectively, the best cat. This is how it should be and I don't want to argue with anyone about it.
-
-It is also true that _objectively_, Pasha is at least in the top 10% of cats. Easily.
+It is _also_ true that objectively, Pasha is easily in the top 10% of cats.
 
 ### Finding Pasha
 
 I got Pasha in early 2022 because I'd spent time watching [Rachel and Jun](https://www.youtube.com/watch?v=IETeb-Mw-28) on YouTube and wanted a long-haired ginger and white cat like Haku.
 
-Pasha was the only such cat within 200 miles of me on Petfinder. The shelter named him Tummy and did not think he was a lap cat.
+Pasha was the only such cat within 200 miles of me on Petfinder. The shelter named him Tummy and did not think he was a lap cat. They were wrong!
 
-They were wrong. He's clingy in the mornings so sometimes I carry him around in a sling:
+He's clingy in the mornings so sometimes I carry him around in a sling:
 
 <div class="flex-container">
   <img src="{{site.baseurl}}/images/pasha/lap.jpeg">
@@ -34,17 +32,17 @@ I was born in Egypt, and I wanted his name to have a Middle Eastern connection. 
 So: he lazes around a lot and wants everything done for him.
 
 <div class="flex-container">
-  <img src="{{site.baseurl}}/images/pasha/lying-down.jpeg">
+  <img src="{{site.baseurl}}/images/pasha/lying-down.jpeg" alt="serve me">
   <img src="{{site.baseurl}}/images/pasha/yawning.jpeg">
 </div>
 
 ## Cuteness
 
-<img src="{{site.baseurl}}/images/pasha/blanket.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/pasha/blanket.jpg" width="100%" alt="sleeby">
 
 <div class="flex-container">
-  <img src="{{site.baseurl}}/images/pasha/nose.jpeg">
-  <img src="{{site.baseurl}}/images/pasha/window.jpeg">
+  <img src="{{site.baseurl}}/images/pasha/nose.jpeg" alt="LOOK AT THAT NOSE!!!!">
+  <img src="{{site.baseurl}}/images/pasha/window.jpeg" alt="peekin'">
 </div>
 
 <span style="display: block; text-align: center; font-size: 200%;">😻</span>

@@ -12,14 +12,14 @@ splide: true
       document.addEventListener('DOMContentLoaded', function() {
       const splide = new Splide('.splide', {
         type: 'loop',
-        perPage: 1,
+        perPage: 2,
         focus: 'center',
         gap: '1rem',
-        padding: { left: '10%', right: '10%' },
+        padding: { left: '5%', right: '5%' },
         arrows: true,
         waitForTransition: true,
         updateOnMove: true,
-        speed: 800,
+        speed: 500,
         easing: 'cubic-bezier(0.4, 0, 0.2, 1)',
         preloadPages: 3,
         lazyLoad: false,
@@ -49,7 +49,7 @@ splide: true
   </div>
 </section>
 
-I'm 38, 5'8", bi, and I live in Boston, MA. I'm playful, reflective, and caring; I'm a godparent and Uncle Hussein to two kids I love, I have an amazing cat, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
+I'm 38, 5'8", bi, and I live in Boston, MA. I'm playful, reflective, and caring; I'm Uncle Hussein and godparent to two kids I love, I have an amazing cat, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
 
 There are two things I'm working on right now that are very important to me:
 
