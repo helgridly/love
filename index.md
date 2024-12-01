@@ -107,14 +107,20 @@ I have worked in tech for 15+ years and one thing it is easy to do is separate o
 
 My vice is hookah. If I had one at home I'd instantly die of lung cancer, and I much prefer living, so I don't. But I keep finding that the best people I know are down to go to a hookah bar. Doesn't have to be you, but it's an easy way to get a 🤩 face from me.
 
+<div style="float: right; width: 40%; padding: 0 0 0 20px">
+<img src="{{site.baseurl}}/images/moodboard/mids/20240615_084759.jpg" style="width: 100%;" />
+<span style="display: block; text-align: center; font-size: 80%">I want one of these. This one is someone else's, but I love her anyway.</span>
+</div>
+
 ## The sort of future I want
 
 I believe a life of weeping-with-happiness contentment is possible, and I want it.  
-[Update: since writing that, I have indeed wept with happiness.]
+[Update: since writing that, I have wept with happiness.]
 
 I would like to co-create a life - location, partner, friends, community (which I see as another word for "family") - at a more sustainable pace, where exploration and flourishing is nurtured. I value making sure people are fed: I've volunteered making meals for chronically sick people, and also helped run a mutual aid food drive for two years. I want to spend more of my time tackling food insecurity and I've got Big Plans to do so.
 
-I'd like to have kids, and be active in raising them. I often joke that I'd make an amazing trophy husband. Meanwhile, I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I seem to be converging on India from both directions.
+I'd like to have kids, and be active in raising them. I think I'd make an amazing trophy husband, which is only a joke if you're not rich. Meanwhile, I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I seem to be converging on India from both directions.
+
 
 ## Spirituality
 
