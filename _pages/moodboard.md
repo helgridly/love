@@ -9,6 +9,11 @@ photoswipe: true
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
 
 <div class="pswp-gallery" id="gallery">
+</div>
+
+
+<script>/* 
+<div class="pswp-gallery_old" id="gallery2">
     <a 
         href="{{site.baseurl}}/images/fooddrive.mp4"
         class="video-link">
@@ -43,6 +48,7 @@ photoswipe: true
         <img src="{{site.baseurl}}/images/changemymind.jpg" alt="Sample image" />
     </a>
 </div>
+*/</script>
 
 <script src="{{site.baseurl}}/assets/gallery.js"></script>
 

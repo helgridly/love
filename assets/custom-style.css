@@ -55,19 +55,27 @@ td {
 .flex-container img {
   width: 49%;
 }
-/*
+
+/* start gallery hidden until relayed out */
 .pswp-gallery {
   margin: 0 auto;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
+.pswp-gallery.loaded {
+  opacity: 1;
+}
+
+/* widths for a and a.span-2 are set in gallery.js */
 .pswp-gallery a {
-  width: 200px;
   margin-bottom: 10px;
   display: block;
 }
 
 .pswp-gallery a.span-2 {
-  width: 410px; /* 2 * 200px + 10px gap */
+  width: 460px; /* 2 * 200px + 10px gap */
 }
 
 .pswp-gallery img {
