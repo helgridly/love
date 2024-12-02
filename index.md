@@ -56,7 +56,7 @@ There are two things I'm working on right now that are very important to me:
 1. Living in a city I love;
 2. Finding a life partner.
 
-For the first: I've lived in Boston for 11 years, and have lately come to accept that it's not the place for me. I grew up in London and there's something about living in a _very_ big city that makes me feel energized and alive. I'm fortunate enough to be financially secure, so it's time to make that happen.
+For the first: I've lived in Boston for 11 years. It's been a good run, but I've recently realized that living here doesn't make me happy. I grew up in London and there's something about living in a _very_ big city that makes me feel energized and alive. I'm fortunate enough to be financially secure, so it's time to make that happen.
 
 So: **unless someone changes my mind, I'm moving back to London around June 2025**.
 
