@@ -58,9 +58,9 @@ There are two things I'm working on right now that are very important to me:
 
 For the first: I've lived in Boston for 11 years. It's been a good run, but I've recently realized that living here doesn't make me happy. I grew up in London and there's something about living in a _very_ big city that makes me feel energized and alive. I'm fortunate enough to be financially secure, so it's time to make that happen.
 
-So: **unless someone changes my mind, I'm moving back to London around June 2025**.
+So: right now my best plan is **moving back to London around June 2025**.
 
-Which means that finding a life partner is most likely going to happen one of two ways:
+This means that finding a life partner is most likely going to happen one of two ways:
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
@@ -74,8 +74,9 @@ Which means that finding a life partner is most likely going to happen one of tw
   <tr>
     <td>
         <p><b>I'm willing to change my plans for the right person</b>. I <i>do</i> want to live in a big city, but as long as the energy is right, that could be any number of places. London and NYC are the obvious ones, but there might be others: Chicago? Paris? Tokyo?</p>
-        <p>I realize that "embark on a relationship knowing you have a few months in which to materially affect a big life decision" is daunting, and I don't blame anyone who doesn't want to take that on.</p>
-        <p>But if you think we're compatible and are willing to give it a shot...</p>
+        <p>I'm open to moving somewhere else for a few months to try it and see. At the time of writing (Dec '24), NYC is currently a candidate for this.</p>
+        <p>I realize that "embark on a relationship with somebody about to take a big life decision" is daunting, and I don't blame anyone who doesn't want to take that on.</p>
+        <p>On the other hand, maybe the location does line up... and if you think we might be compatible, why not give it a shot? 🙂</p>
     </td>
     <td>
         <p>You live in or around London; or you're London-curious and could imagine potentially making it home.</p>
@@ -97,7 +98,7 @@ If you are sick I will make soup and bring it to you. It's an important way I sh
 Some things I like to do:
 
 * Outdoorsy / light-active stuff: climbing, walking, fair-weather sailing, easy cycling (no lycra).
-* DIY and making stuff - I've made plenty of the things in my house, including drapery.
+* DIY and making stuff - I've made plenty of the things in my house, including furniture and drapery.
 * Cooking, restaurants, cocktails (though I rarely drink these days).
 * Any classical music concert featuring an angsty Russian Romantic composer.
 * I am kinda getting into energy woo lately??? Chakras??? I am but a baby but there is something going on here.
