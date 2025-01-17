@@ -104,7 +104,7 @@ Some things I like to do:
 * Any classical music concert featuring an angsty Russian Romantic composer;
 * Self-expression things: ecstatic dance, finally taking singing lessons.
 
-I have worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to _not_ do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
+I worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to _not_ do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
 
 My vice is hookah. If I had one at home I'd instantly die of lung cancer, so I don't. But I keep finding that the best people I know are down to go to a hookah bar. Doesn't have to be you, but it's an easy way to get a 🤩 face from me.
 
