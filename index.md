@@ -91,22 +91,22 @@ On bad days I think I'm a good person because I'm funny and clever.
 On good days I think I'm a good person because I'm open-hearted, playful, and kind.  
 On the best days I don't think about whether I'm a good person at all.
 
-I think this captures me well: I built raised beds in my garden. I like tending to it over the summer and then getting to enjoy incredible tomatoes at the end of the season. (I thought tomatoes were meh until I pulled one directly off the plant.)
+I recently combined a list of goals and the things I like to do, and they seemed to fall into four values: connection, curiosity, beauty, and vitality.
 
 If you are sick I will make soup and bring it to you. It's an important way I show love.
 
 Some things I like to do:
 
-* Outdoorsy / light-active stuff: climbing, walking, fair-weather sailing, easy cycling (no lycra).
-* DIY and making stuff - I've made plenty of the things in my house, including furniture and drapery.
-* Cooking, restaurants, cocktails (though I rarely drink these days).
-* Any classical music concert featuring an angsty Russian Romantic composer.
-* I am kinda getting into energy woo lately??? Chakras??? I am but a baby but there is something going on here.
-* I am, finally, taking singing lessons! Which feels great.
+* Outdoorsy / light-active stuff: climbing, walking, fair-weather sailing, easy cycling (no lycra);
+* Growing food - I built raised beds in my garden, and love the fresh tomatoes I get from it;
+* DIY and making stuff - I've made plenty of the things in my house, including furniture and drapery;
+* Cooking, restaurants, cocktails (though I rarely drink these days);
+* Any classical music concert featuring an angsty Russian Romantic composer;
+* Self-expression things: ecstatic dance, finally taking singing lessons.
 
 I have worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to _not_ do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
 
-My vice is hookah. If I had one at home I'd instantly die of lung cancer, and I much prefer living, so I don't. But I keep finding that the best people I know are down to go to a hookah bar. Doesn't have to be you, but it's an easy way to get a 🤩 face from me.
+My vice is hookah. If I had one at home I'd instantly die of lung cancer, so I don't. But I keep finding that the best people I know are down to go to a hookah bar. Doesn't have to be you, but it's an easy way to get a 🤩 face from me.
 
 <div style="float: right; width: 40%; padding: 0 0 0 20px">
 <img src="{{site.baseurl}}/images/moodboard/mids/20240615_084759.jpg" style="width: 100%;" />
