@@ -102,7 +102,7 @@ Some things I like to do:
 * DIY and making stuff - I've made plenty of the things in my house, including furniture and drapery;
 * Cooking, restaurants, cocktails (though I rarely drink these days);
 * Any classical music concert featuring an angsty Russian Romantic composer;
-* Self-expression things: ecstatic dance, finally taking singing lessons.
+* Self-expression things: dance, finally taking singing lessons.
 
 I worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to _not_ do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
 
