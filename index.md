@@ -49,41 +49,7 @@ splide: true
   </div>
 </section>
 
-I'm 38, 5'8", bi, and I live in Boston, MA. I'm playful, reflective, and caring; I'm Uncle Hussein and godparent to two kids I love, I have an amazing cat, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
-
-There are two things I'm working on right now that are very important to me:
-
-1. Living in a city I love;
-2. Finding a life partner.
-
-For the first: I've lived in Boston for 11 years. It's been a good run, but I've recently realized that living here doesn't make me happy. I grew up in London and there's something about living in a _very_ big city that makes me feel energized and alive. I'm fortunate enough to be financially secure, so it's time to make that happen.
-
-So: right now my best plan is **moving back to London around June 2025**.
-
-This means that finding a life partner is most likely going to happen one of two ways:
-
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="vertical-align: middle; text-align: center; font-weight: bold; font-size: 150%;">
-      <img src="images/changemymind.jpg" width="300"/>
-    </td>
-    <td style="vertical-align: middle; text-align: center; font-weight: bold; font-size: 150%;">
-      <img src="images/london-satellite.jpg" height="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <p><b>I'm willing to change my plans for the right person</b>. I <i>do</i> want to live in a big city, but as long as the energy is right, that could be any number of places. London and NYC are the obvious ones, but there might be others: Chicago? Paris? Tokyo?</p>
-        <p>I'm open to moving somewhere else for a few months to try it and see. At the time of writing (Dec '24), NYC is currently a candidate for this.</p>
-        <p>I realize that "embark on a relationship with somebody about to take a big life decision" is daunting, and I don't blame anyone who doesn't want to take that on.</p>
-        <p>On the other hand, maybe the location does line up... and if you think we might be compatible, why not give it a shot? 🙂</p>
-    </td>
-    <td>
-        <p>You live in or around London; or you're London-curious and could imagine potentially making it home.</p>
-        <p>I will be visiting to figure out logistics a few times before I move, so there'll be opportunities to meet up then, and we can start getting to know each other meanwhile.</p>
-    </td>
-  </tr>
-</table>
+I'm 38, 5'8", bi, and in pretty good physical shape (the best of my life!). I currently live in Boston, MA but expect to move to NYC in June or July. I'm playful, reflective, and caring; I'm Uncle Hussein and godparent to two kids I love, I have an amazing cat, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
 
 ## The sort of person I am
 
@@ -120,8 +86,13 @@ I believe a life of weeping-with-happiness contentment is possible, and I want i
 
 I would like to co-create a life - location, partner, friends, community (which I see as another word for "family") - at a more sustainable pace, where exploration and flourishing is nurtured. I value making sure people are fed: I've volunteered making meals for chronically sick people, and also helped run a mutual aid food drive for two years. I want to spend more of my time tackling food insecurity and I've got Big Plans to do so.
 
-I'd like to have kids, and be active in raising them. I think I'd make an amazing trophy husband, which is only a joke if you're not rich. Meanwhile, I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I seem to be converging on India from both directions.
+I've still got more travelling in me: more time in Japan, interior China, a return to Istanbul, and Iran are all on my bucket list. I seem to be converging on India from both directions.
 
+Someone giving me feedback on this page once told me I come across as having main character energy. It's true! And I'm looking for a co-star: someone who burns brightly, knows it, and wants to be with me because they love my light; a relationship where we reinforce and lift each other, ever-growing.
+
+I think I'd make an amazing trophy husband, which is only a joke if you're not rich.
+
+I want children, and I want to be active in raising them. I grew up in London and miss it enormously, but it's not time for me to move back _yet_; but I do think it'd be a wonderful place to live it's time for me to trade my main character energy into being a supporting character in my kids' lives. If we get serious, expect me to seriously float this idea. In the meantime, I'll be back for regular visits: London is a place where I breathe out, find ease and peace.
 
 ## Spirituality
 
@@ -129,7 +100,7 @@ I used to be allergic to the word until a friend pointed out "dude, you have a s
 
 The condensed version of my spiritual biography: I grew up Muslim, but quit in my early twenties because I felt like I couldn't do it well enough. I came close to falling down the New Atheism rabbithole, but dodged it; in my late twenties I began a quest for capital-M Meaning, which I finally found after lots of therapy and years of Zen practice.
 
-Buddhism has been important to me for approaching a decade. Buddhist philosophy and psychology is very much a part of who I am, how I think, and how I like to relate to the world. An example: when I filed for US citizenship, I asked for a waiver to the Oath of Allegiance on the grounds of not wanting to support the military, even though being 38 means there's basically no chance I'll get drafted.
+Buddhism has been important to me for approaching a decade. Buddhist philosophy and psychology is very much a part of who I am, how I think, and how I like to relate to the world. An example: when getting US citizenship, I asked for a waiver to the Oath of Allegiance on the grounds of not wanting to support the military, even though being 38 means there's basically no chance I'll get drafted.
 
 It's important to me that my partner has their own self-development practice - something that helps them be freer, kinder, and more open. It by no means has to be Buddhist flavoured.
 
@@ -138,7 +109,7 @@ It's important to me that my partner has their own self-development practice - s
 I'm happy to talk about any of these if you'd like to know more.
 
 * I would like to have children (at least one), preferably biological.
-* I am open to a <u>very</u> secure relationship unfolding into something monogam<i>ish</i>, if it feels right. The thing I really care about is the "very secure relationship" part: I think a relationship with good grounding, and the right effort and intention, will become whatever it should.
+* The kind of relationship I want is rock-solid: lots of communication, exquisite attunement. I think such a relationship could unfold into something monogam<i>ish</i>: if there is nothing that can threaten the relationship, there's room for fun and sparkles. But to say that the relationship needs to feel very secure first is an understatement; getting that right is the only priority.
 * I pair better with someone who also has good executive function skills. Being able to trust a partner to get things done makes me feel taken care of, and gives me a profound feeling of relief and safety.
 * I am politically far to the left. That said, I have largely disengaged with US politics and treat it solely as a spectacle. These days I am more of an anarchist, by which I mean I believe that community building and mutual aid is worthwhile and morally necessary.
 * If you think Israel's occupation and treatment of Palestine is in any way conscionable or justifiable, I am not the person for you.
