@@ -49,7 +49,7 @@ splide: true
   </div>
 </section>
 
-I'm 38, 5'8", bi, and in pretty good physical shape (the best of my life!). I currently live in Boston, MA but expect to move to NYC in June or July. I'm playful, reflective, and caring; I'm Uncle Hussein and godparent to two kids I love, I have an amazing cat, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
+I'm 38, 5'8", bi, and in pretty good physical shape (the best of my life!). I live in Brooklyn, NYC. I'm playful, reflective, and caring; I'm Uncle Hussein and godparent to two kids I love, I have an amazing cat, I do community work, etc; just a normal, stand-up guy with zero skeletons in the closet and absolutely no aspirations to start a personality cult or anything weird like that.
 
 ## The sort of person I am
 
