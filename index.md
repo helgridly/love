@@ -41,9 +41,9 @@ splide: true
 <section class="splide" aria-label="Splide Basic HTML Example">
   <div class="splide__track">
 		<ul class="splide__list">
+    <li class="splide__slide"><img src="images/hammock.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/20231226171327_IMG_4469.jpg" loading="eager"/></li>
-    <li class="splide__slide"><img src="images/GbuWSCuXcAM8PD2.jpg" loading="eager"/></li>
-    <li class="splide__slide"><img src="images/20240906_201618_straight_degreen.jpg" loading="eager"/></li>
+    <li class="splide__slide"><img src="images/GSB-NYC-by-@marginwalk3r-15.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/pinkshades-transformed-2.jpg" loading="eager"/></li>
     </ul>
   </div>
