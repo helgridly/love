@@ -45,6 +45,7 @@ splide: true
     <li class="splide__slide"><img src="images/20231226171327_IMG_4469.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/GSB-NYC-by-@marginwalk3r-15.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/pinkshades-transformed-2.jpg" loading="eager"/></li>
+    <li class="splide__slide"><img src="images/hedgehog.jpg" loading="eager"/></li>
     </ul>
   </div>
 </section>
