@@ -43,6 +43,7 @@ splide: true
 		<ul class="splide__list">
     <li class="splide__slide"><img src="images/hammock.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/20231226171327_IMG_4469.jpg" loading="eager"/></li>
+    <li class="splide__slide"><img src="images/20251028_140740.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/GSB-NYC-by-@marginwalk3r-15.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/pinkshades-transformed-2.jpg" loading="eager"/></li>
     <li class="splide__slide"><img src="images/hedgehog.jpg" loading="eager"/></li>
@@ -64,12 +65,12 @@ If you are sick I will make soup and bring it to you. It's an important way I sh
 
 Some things I like to do:
 
+* Dance, in particular 5Rhythms (free movement / expressive / ecstatic dance);
 * Outdoorsy / light-active stuff: climbing, walking, fair-weather sailing, easy cycling (no lycra);
-* Growing food - I built raised beds in my garden, and love the fresh tomatoes I get from it;
+* Grow food - I built raised beds in my garden, and love the fresh tomatoes I get from it;
 * DIY and making stuff - I've made plenty of the things in my house, including furniture and drapery;
 * Cooking, restaurants, cocktails (though I rarely drink these days);
 * Any classical music concert featuring an angsty Russian Romantic composer;
-* Self-expression things: dance, finally taking singing lessons.
 
 I worked in tech for 15+ years and one thing it is easy to do is separate oneself from people unlike you. To work and live and play in communities of people very similar to you, or to have the "diversity" you experience look like skin color and sexuality and gender id but not wealth or class or education. It is deeply, vitally important to me to _not_ do this, to stay connected to and in touch and aware of the way others live. We may be better off but we are not better. I will not separate myself from humanity.
 
