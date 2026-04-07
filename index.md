@@ -128,5 +128,6 @@ There are a few places you can go from here:
 * Look at [pictures of my cat](../cat)
 * Look at [an assortment of pictures and videos from my life](../moodboard)
 * If you're interested, or have something to say, email me: `hello@thiswebsite`
+* If you're prospecting for users for your startup: thank you, but I'm not interested. Please do not contact me.
 
 Thanks, and I hope you find what you're looking for too. ❤
